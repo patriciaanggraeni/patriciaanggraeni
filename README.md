@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yaraneru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yaraneru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patriaanggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patriaanggara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patriaanggarasusiloputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patriaanggara" height="30" width="40" /></a>
 <a href="https://fb.com/patria.a.putra.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patria.a.putra.1" height="30" width="40" /></a>
 <a href="https://instagram.com/anggara_susilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anggara_susilo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/patriaanggara19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patriaanggara19/" height="30" width="40" /></a>
