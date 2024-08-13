@@ -8,16 +8,31 @@
 <br>
 
 <h3>About Me</h3>
-<h4>
+<p style="font-size: 17px;">
   I am passionate about technology and programming, especially in the field of Android development. I have been learning and experimenting with various aspects of mobile development, particularly using Kotlin and Jetpack Compose. My goal is to continually improve my skills and contribute to meaningful projects.
-<h4>
+<p>
 
 <details>
-  <summary>
+  <summary style="font-size: 17px;">
     Click to learn more about me!
   </summary>
+  <br>
 
-  - 🌱 I’m currently learning Android development techniques.
-  - 💬 Ask me about Kotlin, Android, or anything tech-related!
-  - 📫 How to reach me: [susiloangga17@gmail.com](susiloangga17@gmail.com)
+  <ul>
+    <li> 
+      <p style="font-size: 17px">
+        🌱 I’m currently learning Android development techniques.
+      </p>
+    </li>
+    <li>
+      <p style="font-size: 17px">
+        💬 Ask me about Kotlin, Android, or anything tech-related!
+      </p>
+    </li>
+    <li>
+      <p style="font-size: 17px">
+        📫 How to reach me: [susiloangga17@gmail.com](susiloangga17@gmail.com)
+      </p>
+    </li>
+  </ul>
 </details>
