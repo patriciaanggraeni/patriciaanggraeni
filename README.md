@@ -8,19 +8,19 @@
 <br>
 
 <h3>About Me</h3>
-<p style="font-size: 17px;">
+<p style="font-size: 30px;">
   I am passionate about technology and programming, especially in the field of Android development. I have been learning and experimenting with various aspects of mobile development, particularly using Kotlin and Jetpack Compose. My goal is to continually improve my skills and contribute to meaningful projects.
 <p>
 
 <details>
-  <summary style="font-size: 17px;">
+  <summary style="font-size: 30px;">
     Click to learn more about me!
   </summary>
   <br>
 
   <ul>
     <li> 
-      <p style="font-size: 17px">
+      <p style="font-size: 30px">
         🌱 I’m currently learning Android development techniques.
       </p>
     </li>
