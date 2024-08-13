@@ -17,6 +17,7 @@
     Click to learn more about me!
   </summary>
   <br>
+
   - 🌱 I’m currently learning Android development techniques.
   - 💬 Ask me about Kotlin, Android, or anything tech-related!
   - 📫 How to reach me: [susiloangga17@gmail.com](susiloangga17@gmail.com)
