@@ -1,4 +1,4 @@
-![Masterhead](assets/fish-3.gif)
+![Masterhead](assets/anime.png)
 
 <br>
 
