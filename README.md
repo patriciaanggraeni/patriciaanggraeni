@@ -1,4 +1,4 @@
-![Masterhead](assets/dark-nature.gif)
+<img src="assets/mario.gif" alt="Masterhead" style="border-radius: 5px;">
 
 <br>
 
