@@ -1,4 +1,4 @@
-<img src="assets/mario.gif" alt="Masterhead" style="border-radius: 5px;">
+![Masterhead](assets/mario.gif)
 
 <br>
 
