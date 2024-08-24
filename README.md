@@ -1,4 +1,4 @@
-![Masterhead](assets/anime.png)
+![Masterhead](assets/dark-nature.gif)
 
 <br>
 
